@@ -1,0 +1,5 @@
+info = input("姓名,年龄,城市:")
+p = info.split(",")
+print(f"姓名:{p[0]}")
+print(f"年龄:{p[1]}")
+print(f"城市: {p[2]}")

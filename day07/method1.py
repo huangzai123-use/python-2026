@@ -1,0 +1,5 @@
+s = input("说句话:")
+print(s.upper())
+print(s.lower())
+print(s.strip())
+print(len(s.strip()))
